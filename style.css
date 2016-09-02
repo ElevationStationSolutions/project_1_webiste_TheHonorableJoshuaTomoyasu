@@ -1,0 +1,16 @@
+@import url(https://fonts.googleapis.com/css?family=Merriweather+Sans);
+.heading {
+  text-align:center;
+  color: white;
+  font-family: Merriweather Sans
+}
+div {
+  padding: 10px;
+  border: 5px solid brown;
+}
+body {
+  background-color: black;
+  color: white;
+  font-family: Merriweather Sans;
+  text-align:justify;
+}
